@@ -1,0 +1,42 @@
+kcminputrc Mouse cursorTheme 'breeze_cursors'
+!/home/firerain/.config/kcminputrc
+!/etc/xdg/kcminputrc
+!/home/firerain/.local/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+kcminputrc Mouse cursorSize ''
+!/home/firerain/.config/kcminputrc
+!/etc/xdg/kcminputrc
+!/home/firerain/.local/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+ksplashrc KSplash Theme Breeze
+!/home/firerain/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/firerain/.local/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+ksplashrc KSplash Engine KSplashQML
+!/home/firerain/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/firerain/.local/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+kdeglobals KScreen ScreenScaleFactors ''
+/home/firerain/.config/kdeglobals
+!/etc/xdg/kdeglobals
+!/home/firerain/.local/share/config/kdeglobals
+!/usr/local/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*
+kcmfonts General forceFontDPI 0
+!/home/firerain/.config/kcmfonts
+!/etc/xdg/kcmfonts
+!/home/firerain/.local/share/config/kcmfonts
+!/usr/local/share/config/kcmfonts
+!/usr/share/config/kcmfonts
+*

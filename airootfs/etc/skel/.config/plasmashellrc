@@ -1,0 +1,14 @@
+[KFileDialog Settings]
+Recent Files[$e]=background.jpg,file:$HOME/background.jpg
+
+[PlasmaTransientsConfig]
+PreloadWeight=26
+
+[PlasmaViews][Panel 2][Horizontal1608]
+thickness=26
+
+[ScreenConnectors]
+0=VGA-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js
