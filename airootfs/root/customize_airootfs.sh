@@ -14,6 +14,7 @@ cp -aT /etc/skel/ /root/
 chmod 700 /root
 
 sed -i 's/# \(%wheel ALL=(ALL) ALL\)/\1/' /etc/sudoers
+echo "Defaults !env_reset" >> /etc/sudoers
 
 useradd -m -g users -G wheel -s /usr/bin/zsh firerain
 passwd -d firerain
